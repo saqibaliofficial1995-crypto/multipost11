@@ -1,4 +1,4 @@
-﻿import os
+import os
 import sys
 import json
 import time
@@ -15,7 +15,7 @@ def load_config(config_path="config.json"):
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     full_path = os.path.join(base_dir, config_path)
     if os.path.exists(full_path):
-        with open(full_path, "r", encoding="utf-8") as f:
+        with open(full_path, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {
         "made_for_kids": False,
@@ -30,7 +30,7 @@ def load_config(config_path="config.json"):
 def load_state(state_file):
     if os.path.exists(state_file):
         try:
-            with open(state_file, "r", encoding="utf-8") as f:
+            with open(state_file, "r", encoding="utf-8-sig") as f:
                 return json.load(f)
         except Exception:
             pass
@@ -38,7 +38,7 @@ def load_state(state_file):
 
 def save_state(state, state_file):
     os.makedirs(os.path.dirname(state_file), exist_ok=True)
-    with open(state_file, "w", encoding="utf-8") as f:
+    with open(state_file, "w", encoding="utf-8-sig") as f:
         json.dump(state, f, indent=2)
 
 def get_uploaded_ids(state):
