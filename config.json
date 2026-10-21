@@ -1,0 +1,9 @@
+﻿{
+  "made_for_kids": false,
+  "privacy_status": "public",
+  "default_language": "en",
+  "max_uploads_per_run": 1,
+  "drive_folder_id": "1d3WNdfdbYn0Jdxq9XICOrlC61FNpShME",
+  "ai_provider": "gemini",
+  "model": "gemini-flash-lite-latest"
+}

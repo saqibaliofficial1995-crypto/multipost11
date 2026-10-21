@@ -1,0 +1,51 @@
+﻿name: Weekly Analytics
+
+on:
+  schedule:
+    - cron: '50 19 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: multipost11-${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Runner public IP
+        run: |
+          echo "Runner public IP: $(curl -s https://api.ipify.org)"
+
+      - name: Run Weekly Analytics
+        env:
+          PYTHONPATH: .
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -u src/analytics.py
+
+      - name: Commit analytics report
+        if: always()
+        run: |
+          git config user.name "zoezoewhitley-rgb"
+          git config user.email "zoezoewhitley@gmail.com"
+          git add reports/
+          git diff --staged --quiet || (git commit -m "chore: add weekly analytics report [skip ci]" && git push)
