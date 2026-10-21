@@ -1,1 +1,58 @@
-{"items": {}, "history": []}
+﻿{
+  "items": {
+    "1ZMIY07M5Uy8p4UKDCnLJifPCGRC9Kxcd": {
+      "drive_file_id": "1ZMIY07M5Uy8p4UKDCnLJifPCGRC9Kxcd",
+      "drive_file_name": "23.09.26 (9).mp4",
+      "youtube_video_id": "fPRp_bRWjow",
+      "youtube_url": "https://youtu.be/fPRp_bRWjow",
+      "title": "Penguin kisses an elderly visitor at the zoo",
+      "uploaded_at_utc": "2026-10-21T16:20:08Z",
+      "tags": [
+        "penguin",
+        "zoo animals",
+        "cute animals",
+        "elderly woman",
+        "heartwarming",
+        "animal encounter",
+        "penguin exhibit",
+        "wholesome",
+        "animal interaction",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#penguins",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    }
+  },
+  "history": [
+    {
+      "drive_file_id": "1ZMIY07M5Uy8p4UKDCnLJifPCGRC9Kxcd",
+      "drive_file_name": "23.09.26 (9).mp4",
+      "youtube_video_id": "fPRp_bRWjow",
+      "youtube_url": "https://youtu.be/fPRp_bRWjow",
+      "title": "Penguin kisses an elderly visitor at the zoo",
+      "uploaded_at_utc": "2026-10-21T16:20:08Z",
+      "tags": [
+        "penguin",
+        "zoo animals",
+        "cute animals",
+        "elderly woman",
+        "heartwarming",
+        "animal encounter",
+        "penguin exhibit",
+        "wholesome",
+        "animal interaction",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#penguins",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    }
+  ]
+}
