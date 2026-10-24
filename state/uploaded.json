@@ -25,6 +25,32 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1BJzNXzrCTYFs7mo17WiAgA1NpRf5tSuu": {
+      "drive_file_id": "1BJzNXzrCTYFs7mo17WiAgA1NpRf5tSuu",
+      "drive_file_name": "Grandma's Sweetest Encounter With An Aquarium Animal (Playful Water Splash).mp4",
+      "youtube_video_id": "RsVmxp1Ljbc",
+      "youtube_url": "https://youtu.be/RsVmxp1Ljbc",
+      "title": "Giraffe Says Hello to a Toddler at the Zoo",
+      "uploaded_at_utc": "2026-10-24T08:10:31Z",
+      "tags": [
+        "giraffe",
+        "zoo animals",
+        "toddler reaction",
+        "cute animals",
+        "wildlife encounter",
+        "kids and animals",
+        "safari park",
+        "animal interaction",
+        "funny giraffe",
+        "cute kid moment"
+      ],
+      "hashtags": [
+        "#giraffe",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -51,6 +77,32 @@
         "#shorts",
         "#penguins",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1BJzNXzrCTYFs7mo17WiAgA1NpRf5tSuu",
+      "drive_file_name": "Grandma's Sweetest Encounter With An Aquarium Animal (Playful Water Splash).mp4",
+      "youtube_video_id": "RsVmxp1Ljbc",
+      "youtube_url": "https://youtu.be/RsVmxp1Ljbc",
+      "title": "Giraffe Says Hello to a Toddler at the Zoo",
+      "uploaded_at_utc": "2026-10-24T08:10:31Z",
+      "tags": [
+        "giraffe",
+        "zoo animals",
+        "toddler reaction",
+        "cute animals",
+        "wildlife encounter",
+        "kids and animals",
+        "safari park",
+        "animal interaction",
+        "funny giraffe",
+        "cute kid moment"
+      ],
+      "hashtags": [
+        "#giraffe",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
