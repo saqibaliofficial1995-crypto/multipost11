@@ -37,8 +37,7 @@ jobs:
 
       - name: Install ffmpeg
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get update -o Acquire::ForceIPv4=true && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -o Acquire::ForceIPv4=true --no-install-recommends ffmpeg
 
       - name: Install dependencies
         run: |
@@ -63,7 +62,7 @@ jobs:
       - name: Commit state changes
         if: always()
         run: |
-          git config user.name "zoezoewhitley-rgb"
-          git config user.email "zoezoewhitley@gmail.com"
+          git config user.name "saqibaliofficial1995-crypto"
+          git config user.email "saqibaliofficial1995@gmail.com"
           git add state/
           git diff --staged --quiet || (git commit -m "chore: update upload state [skip ci]" && git push)

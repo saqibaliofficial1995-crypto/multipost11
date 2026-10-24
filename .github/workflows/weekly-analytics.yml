@@ -45,7 +45,7 @@ jobs:
       - name: Commit analytics report
         if: always()
         run: |
-          git config user.name "zoezoewhitley-rgb"
-          git config user.email "zoezoewhitley@gmail.com"
+          git config user.name "saqibaliofficial1995-crypto"
+          git config user.email "saqibaliofficial1995@gmail.com"
           git add reports/
           git diff --staged --quiet || (git commit -m "chore: add weekly analytics report [skip ci]" && git push)
