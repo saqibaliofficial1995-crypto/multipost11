@@ -133,6 +133,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1D5SnkX51GwoxTpZ-KM_VgECqJO0Us__r": {
+      "drive_file_id": "1D5SnkX51GwoxTpZ-KM_VgECqJO0Us__r",
+      "drive_file_name": "He Had No Idea What Was Lurking Behind The Glass (Playful Water Splash).mp4",
+      "youtube_video_id": "qGEvfBGCIPg",
+      "youtube_url": "https://youtu.be/qGEvfBGCIPg",
+      "title": "Mandrill Meets Curious Toddler at the Zoo",
+      "uploaded_at_utc": "2026-10-25T15:04:38Z",
+      "tags": [
+        "mandrill",
+        "zoo encounter",
+        "toddler and animal",
+        "monkey at zoo",
+        "wildlife interaction",
+        "cute kids",
+        "animal encounter",
+        "zoo trip",
+        "kids and animals",
+        "funny mandrill",
+        "toddler reaction"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#mandrill"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -267,6 +294,33 @@
         "#fox",
         "#zoo",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1D5SnkX51GwoxTpZ-KM_VgECqJO0Us__r",
+      "drive_file_name": "He Had No Idea What Was Lurking Behind The Glass (Playful Water Splash).mp4",
+      "youtube_video_id": "qGEvfBGCIPg",
+      "youtube_url": "https://youtu.be/qGEvfBGCIPg",
+      "title": "Mandrill Meets Curious Toddler at the Zoo",
+      "uploaded_at_utc": "2026-10-25T15:04:38Z",
+      "tags": [
+        "mandrill",
+        "zoo encounter",
+        "toddler and animal",
+        "monkey at zoo",
+        "wildlife interaction",
+        "cute kids",
+        "animal encounter",
+        "zoo trip",
+        "kids and animals",
+        "funny mandrill",
+        "toddler reaction"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#mandrill"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
