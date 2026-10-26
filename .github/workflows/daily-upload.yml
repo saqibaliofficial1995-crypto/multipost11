@@ -1,4 +1,4 @@
-﻿name: Daily Upload
+name: Daily Upload
 
 on:
   schedule:
@@ -20,7 +20,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: multipost11-${{ github.workflow }}
+  group: multipost11-pipeline
   cancel-in-progress: false
 
 jobs:
