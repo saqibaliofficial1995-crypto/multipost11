@@ -348,6 +348,33 @@
         "#babyreaction"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1XgIIqiA5O01Vn-uiJq6zkd43erh400zw": {
+      "drive_file_id": "1XgIIqiA5O01Vn-uiJq6zkd43erh400zw",
+      "drive_file_name": "Heartwarming Moment Between A Human And Zoo Animal (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "K5XcBiq1OPA",
+      "youtube_url": "https://youtu.be/K5XcBiq1OPA",
+      "title": "Wolf Howls Back: Amazing Zoo Encounter",
+      "uploaded_at_utc": "2026-10-28T11:40:57Z",
+      "tags": [
+        "wolf",
+        "howling wolf",
+        "zoo encounter",
+        "wildlife",
+        "animals",
+        "wolf howling",
+        "nature",
+        "zoo animals",
+        "cute animals",
+        "wolf pack",
+        "animal behavior"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#wolf",
+        "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -697,6 +724,33 @@
         "#shorts",
         "#aquarium",
         "#babyreaction"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1XgIIqiA5O01Vn-uiJq6zkd43erh400zw",
+      "drive_file_name": "Heartwarming Moment Between A Human And Zoo Animal (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "K5XcBiq1OPA",
+      "youtube_url": "https://youtu.be/K5XcBiq1OPA",
+      "title": "Wolf Howls Back: Amazing Zoo Encounter",
+      "uploaded_at_utc": "2026-10-28T11:40:57Z",
+      "tags": [
+        "wolf",
+        "howling wolf",
+        "zoo encounter",
+        "wildlife",
+        "animals",
+        "wolf howling",
+        "nature",
+        "zoo animals",
+        "cute animals",
+        "wolf pack",
+        "animal behavior"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#wolf",
+        "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
