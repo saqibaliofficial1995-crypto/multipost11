@@ -375,6 +375,32 @@
         "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1c5ThI7ib9DXkA2qVV6N6vj88ntfamXh4": {
+      "drive_file_id": "1c5ThI7ib9DXkA2qVV6N6vj88ntfamXh4",
+      "drive_file_name": "Heartwarming Moment Between A Human And Zoo Animal (Intense Face To Face).mp4",
+      "youtube_video_id": "cay3kFqELr8",
+      "youtube_url": "https://youtu.be/cay3kFqELr8",
+      "title": "Camel encounters a little boy at the zoo",
+      "uploaded_at_utc": "2026-10-28T17:29:03Z",
+      "tags": [
+        "camel",
+        "baby camel",
+        "zoo animals",
+        "boy and camel",
+        "cute camel",
+        "zoo encounter",
+        "wildlife encounter",
+        "cute animals",
+        "kids at the zoo",
+        "animal interaction"
+      ],
+      "hashtags": [
+        "#camel",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -751,6 +777,32 @@
         "#shorts",
         "#wolf",
         "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1c5ThI7ib9DXkA2qVV6N6vj88ntfamXh4",
+      "drive_file_name": "Heartwarming Moment Between A Human And Zoo Animal (Intense Face To Face).mp4",
+      "youtube_video_id": "cay3kFqELr8",
+      "youtube_url": "https://youtu.be/cay3kFqELr8",
+      "title": "Camel encounters a little boy at the zoo",
+      "uploaded_at_utc": "2026-10-28T17:29:03Z",
+      "tags": [
+        "camel",
+        "baby camel",
+        "zoo animals",
+        "boy and camel",
+        "cute camel",
+        "zoo encounter",
+        "wildlife encounter",
+        "cute animals",
+        "kids at the zoo",
+        "animal interaction"
+      ],
+      "hashtags": [
+        "#camel",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
