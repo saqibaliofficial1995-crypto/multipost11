@@ -455,6 +455,32 @@
         "#aquarium"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1CrGVk809nSlHkR7uFnrxBRLvG3c8sGSr": {
+      "drive_file_id": "1CrGVk809nSlHkR7uFnrxBRLvG3c8sGSr",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Cute Monkey Wave).mp4",
+      "youtube_video_id": "X3MYxNenZ-8",
+      "youtube_url": "https://youtu.be/X3MYxNenZ-8",
+      "title": "Sea Otter Greets Visitors at Aquarium",
+      "uploaded_at_utc": "2026-10-29T17:38:08Z",
+      "tags": [
+        "sea otter",
+        "aquarium",
+        "cute otter",
+        "otter swimming",
+        "zoo animals",
+        "animal encounters",
+        "cute animals",
+        "aquarium visit",
+        "wildlife",
+        "otter interaction"
+      ],
+      "hashtags": [
+        "#seaotter",
+        "#aquarium",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -911,6 +937,32 @@
         "#shorts",
         "#manatee",
         "#aquarium"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1CrGVk809nSlHkR7uFnrxBRLvG3c8sGSr",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Cute Monkey Wave).mp4",
+      "youtube_video_id": "X3MYxNenZ-8",
+      "youtube_url": "https://youtu.be/X3MYxNenZ-8",
+      "title": "Sea Otter Greets Visitors at Aquarium",
+      "uploaded_at_utc": "2026-10-29T17:38:08Z",
+      "tags": [
+        "sea otter",
+        "aquarium",
+        "cute otter",
+        "otter swimming",
+        "zoo animals",
+        "animal encounters",
+        "cute animals",
+        "aquarium visit",
+        "wildlife",
+        "otter interaction"
+      ],
+      "hashtags": [
+        "#seaotter",
+        "#aquarium",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
