@@ -428,6 +428,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1YhMSx7_mO9ng8vMoxPn1boh_hvfKAeqo": {
+      "drive_file_id": "1YhMSx7_mO9ng8vMoxPn1boh_hvfKAeqo",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Precious Child Wonder).mp4",
+      "youtube_video_id": "MwZRVSXVjeE",
+      "youtube_url": "https://youtu.be/MwZRVSXVjeE",
+      "title": "Manatee Encounters Adorable Woman at Aquarium",
+      "uploaded_at_utc": "2026-10-29T11:50:03Z",
+      "tags": [
+        "manatee",
+        "aquarium",
+        "sea cow",
+        "cute animals",
+        "wildlife",
+        "ocean animals",
+        "animal encounter",
+        "aquarium visit",
+        "marine life",
+        "cute manatee",
+        "friendly animal"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#manatee",
+        "#aquarium"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -857,6 +884,33 @@
         "#alligator",
         "#zoo",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1YhMSx7_mO9ng8vMoxPn1boh_hvfKAeqo",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Precious Child Wonder).mp4",
+      "youtube_video_id": "MwZRVSXVjeE",
+      "youtube_url": "https://youtu.be/MwZRVSXVjeE",
+      "title": "Manatee Encounters Adorable Woman at Aquarium",
+      "uploaded_at_utc": "2026-10-29T11:50:03Z",
+      "tags": [
+        "manatee",
+        "aquarium",
+        "sea cow",
+        "cute animals",
+        "wildlife",
+        "ocean animals",
+        "animal encounter",
+        "aquarium visit",
+        "marine life",
+        "cute manatee",
+        "friendly animal"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#manatee",
+        "#aquarium"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
