@@ -481,6 +481,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1wt9iEHuIeNzX9nW9Ks4PuEddpYQaQRB9": {
+      "drive_file_id": "1wt9iEHuIeNzX9nW9Ks4PuEddpYQaQRB9",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "oq6YGZZWtjs",
+      "youtube_url": "https://youtu.be/oq6YGZZWtjs",
+      "title": "Boy Meets Spider Monkey at the Zoo!",
+      "uploaded_at_utc": "2026-10-29T22:02:40Z",
+      "tags": [
+        "spider monkey",
+        "zoo animals",
+        "boy and monkey",
+        "toddler at zoo",
+        "cute toddler",
+        "animal encounter",
+        "wildlife for kids",
+        "monkey swinging",
+        "zoo visit",
+        "cute animal moments"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#spider monkey",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -963,6 +989,32 @@
         "#seaotter",
         "#aquarium",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1wt9iEHuIeNzX9nW9Ks4PuEddpYQaQRB9",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "oq6YGZZWtjs",
+      "youtube_url": "https://youtu.be/oq6YGZZWtjs",
+      "title": "Boy Meets Spider Monkey at the Zoo!",
+      "uploaded_at_utc": "2026-10-29T22:02:40Z",
+      "tags": [
+        "spider monkey",
+        "zoo animals",
+        "boy and monkey",
+        "toddler at zoo",
+        "cute toddler",
+        "animal encounter",
+        "wildlife for kids",
+        "monkey swinging",
+        "zoo visit",
+        "cute animal moments"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#spider monkey",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
