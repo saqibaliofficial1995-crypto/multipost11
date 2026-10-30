@@ -533,6 +533,34 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1O0KSy0R1BULx0RaJ8f0b3mqkvOjoNcOX": {
+      "drive_file_id": "1O0KSy0R1BULx0RaJ8f0b3mqkvOjoNcOX",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Majestic Predator Eye Contact).mp4",
+      "youtube_video_id": "8cuE5_XljJM",
+      "youtube_url": "https://youtu.be/8cuE5_XljJM",
+      "title": "Proboscis Monkey Stuns Little Girl at Zoo",
+      "uploaded_at_utc": "2026-10-30T17:15:31Z",
+      "tags": [
+        "proboscis monkey",
+        "zoo animals",
+        "monkey encounter",
+        "cute kid reaction",
+        "funny monkey",
+        "zoo visit",
+        "animal encounter",
+        "kids at zoo",
+        "wildlife",
+        "rare monkeys",
+        "cute child",
+        "primate"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#animals",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1067,6 +1095,34 @@
         "#polarbear",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1O0KSy0R1BULx0RaJ8f0b3mqkvOjoNcOX",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Majestic Predator Eye Contact).mp4",
+      "youtube_video_id": "8cuE5_XljJM",
+      "youtube_url": "https://youtu.be/8cuE5_XljJM",
+      "title": "Proboscis Monkey Stuns Little Girl at Zoo",
+      "uploaded_at_utc": "2026-10-30T17:15:31Z",
+      "tags": [
+        "proboscis monkey",
+        "zoo animals",
+        "monkey encounter",
+        "cute kid reaction",
+        "funny monkey",
+        "zoo visit",
+        "animal encounter",
+        "kids at zoo",
+        "wildlife",
+        "rare monkeys",
+        "cute child",
+        "primate"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#animals",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
