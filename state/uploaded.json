@@ -507,6 +507,32 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1B_ypCzwk8ktQ85FS9QtFMrzExdqTc0hk": {
+      "drive_file_id": "1B_ypCzwk8ktQ85FS9QtFMrzExdqTc0hk",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Breathtaking Ocean Life).mp4",
+      "youtube_video_id": "kR-RklKeg1g",
+      "youtube_url": "https://youtu.be/kR-RklKeg1g",
+      "title": "Polar Bear Greets Elderly Man Through Glass at Zoo",
+      "uploaded_at_utc": "2026-10-30T11:41:22Z",
+      "tags": [
+        "polar bear",
+        "zoo animals",
+        "polar bear cub",
+        "wildlife encounter",
+        "cute animals",
+        "heartwarming moment",
+        "aquarium",
+        "polar bear swimming",
+        "elderly man and polar bear",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#polarbear",
+        "#wildlife",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1015,6 +1041,32 @@
         "#shorts",
         "#spider monkey",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1B_ypCzwk8ktQ85FS9QtFMrzExdqTc0hk",
+      "drive_file_name": "Intense Staredown With A Wild Zoo Animal (Breathtaking Ocean Life).mp4",
+      "youtube_video_id": "kR-RklKeg1g",
+      "youtube_url": "https://youtu.be/kR-RklKeg1g",
+      "title": "Polar Bear Greets Elderly Man Through Glass at Zoo",
+      "uploaded_at_utc": "2026-10-30T11:41:22Z",
+      "tags": [
+        "polar bear",
+        "zoo animals",
+        "polar bear cub",
+        "wildlife encounter",
+        "cute animals",
+        "heartwarming moment",
+        "aquarium",
+        "polar bear swimming",
+        "elderly man and polar bear",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#polarbear",
+        "#wildlife",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
