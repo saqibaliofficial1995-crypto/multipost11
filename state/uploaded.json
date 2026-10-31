@@ -587,6 +587,33 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1kMRzJMC8fPZwKztYfnvWooXNehwXYmJU": {
+      "drive_file_id": "1kMRzJMC8fPZwKztYfnvWooXNehwXYmJU",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Fascinating Glass Mirroring).mp4",
+      "youtube_video_id": "IcSUluHOJp8",
+      "youtube_url": "https://youtu.be/IcSUluHOJp8",
+      "title": "Grandma Meets Adorable Otters at the Aquarium",
+      "uploaded_at_utc": "2026-10-31T11:15:41Z",
+      "tags": [
+        "otters",
+        "grandma",
+        "cute otters",
+        "aquarium animals",
+        "wildlife interaction",
+        "cute animals",
+        "heartwarming moment",
+        "elderly woman",
+        "zoo animals",
+        "animal encounter",
+        "sweet video"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#otters",
+        "#heartwarming"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1175,6 +1202,33 @@
         "#shorts",
         "#penguin",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1kMRzJMC8fPZwKztYfnvWooXNehwXYmJU",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Fascinating Glass Mirroring).mp4",
+      "youtube_video_id": "IcSUluHOJp8",
+      "youtube_url": "https://youtu.be/IcSUluHOJp8",
+      "title": "Grandma Meets Adorable Otters at the Aquarium",
+      "uploaded_at_utc": "2026-10-31T11:15:41Z",
+      "tags": [
+        "otters",
+        "grandma",
+        "cute otters",
+        "aquarium animals",
+        "wildlife interaction",
+        "cute animals",
+        "heartwarming moment",
+        "elderly woman",
+        "zoo animals",
+        "animal encounter",
+        "sweet video"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#otters",
+        "#heartwarming"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
