@@ -614,6 +614,33 @@
         "#heartwarming"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "12oepqKC8IyKt1GHnnndMPw7G0YuOkmp2": {
+      "drive_file_id": "12oepqKC8IyKt1GHnnndMPw7G0YuOkmp2",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "bCUsSCcGCzM",
+      "youtube_url": "https://youtu.be/bCUsSCcGCzM",
+      "title": "Grandma's Sweet Encounter with Zoo Gibbons",
+      "uploaded_at_utc": "2026-10-31T16:21:14Z",
+      "tags": [
+        "zoo animals",
+        "gibbons",
+        "elderly woman",
+        "cute animal moments",
+        "zoo encounter",
+        "primates",
+        "grandma at zoo",
+        "wholesome video",
+        "animal interaction",
+        "wildlife park",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#gibbons",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1229,6 +1256,33 @@
         "#shorts",
         "#otters",
         "#heartwarming"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "12oepqKC8IyKt1GHnnndMPw7G0YuOkmp2",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "bCUsSCcGCzM",
+      "youtube_url": "https://youtu.be/bCUsSCcGCzM",
+      "title": "Grandma's Sweet Encounter with Zoo Gibbons",
+      "uploaded_at_utc": "2026-10-31T16:21:14Z",
+      "tags": [
+        "zoo animals",
+        "gibbons",
+        "elderly woman",
+        "cute animal moments",
+        "zoo encounter",
+        "primates",
+        "grandma at zoo",
+        "wholesome video",
+        "animal interaction",
+        "wildlife park",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#gibbons",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
