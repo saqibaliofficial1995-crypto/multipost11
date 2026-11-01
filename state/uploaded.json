@@ -695,6 +695,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1B5fl-UdYVuXPAqEZPOHZwFXiYR8m-n45": {
+      "drive_file_id": "1B5fl-UdYVuXPAqEZPOHZwFXiYR8m-n45",
+      "drive_file_name": "Playful Beluga Whale Greets Aquarium Visitors (Precious Child Wonder).mp4",
+      "youtube_video_id": "iXmAUGnwK-o",
+      "youtube_url": "https://youtu.be/iXmAUGnwK-o",
+      "title": "Boy Meets Giant Tortoise Face to Face at the Zoo",
+      "uploaded_at_utc": "2026-11-01T21:24:23Z",
+      "tags": [
+        "giant tortoise",
+        "boy meets tortoise",
+        "zoo animals",
+        "kids and animals",
+        "tortoise encounter",
+        "toddler at zoo",
+        "cute animal moments",
+        "wildlife interaction",
+        "zoo adventure",
+        "kids reacting to animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#tortoise",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1391,6 +1417,32 @@
         "#cheetah",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1B5fl-UdYVuXPAqEZPOHZwFXiYR8m-n45",
+      "drive_file_name": "Playful Beluga Whale Greets Aquarium Visitors (Precious Child Wonder).mp4",
+      "youtube_video_id": "iXmAUGnwK-o",
+      "youtube_url": "https://youtu.be/iXmAUGnwK-o",
+      "title": "Boy Meets Giant Tortoise Face to Face at the Zoo",
+      "uploaded_at_utc": "2026-11-01T21:24:23Z",
+      "tags": [
+        "giant tortoise",
+        "boy meets tortoise",
+        "zoo animals",
+        "kids and animals",
+        "tortoise encounter",
+        "toddler at zoo",
+        "cute animal moments",
+        "wildlife interaction",
+        "zoo adventure",
+        "kids reacting to animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#tortoise",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
