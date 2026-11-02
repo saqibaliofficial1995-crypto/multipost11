@@ -721,6 +721,33 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1OKS0ici3_DM7f0gYkngnlT78OiH4_J2c": {
+      "drive_file_id": "1OKS0ici3_DM7f0gYkngnlT78OiH4_J2c",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Safari Barrier Surprise).mp4",
+      "youtube_video_id": "wfzDBrNEEws",
+      "youtube_url": "https://youtu.be/wfzDBrNEEws",
+      "title": "Grandma Greets an Anteater Face-to-Face at the Zoo",
+      "uploaded_at_utc": "2026-11-02T13:53:45Z",
+      "tags": [
+        "anteater",
+        "zoo encounter",
+        "grandma at the zoo",
+        "cute animals",
+        "wildlife interaction",
+        "giant anteater",
+        "animal meeting",
+        "adorable grandma",
+        "zoo trip",
+        "funny animal moments",
+        "animals and humans"
+      ],
+      "hashtags": [
+        "#anteater",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1443,6 +1470,33 @@
         "#shorts",
         "#tortoise",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1OKS0ici3_DM7f0gYkngnlT78OiH4_J2c",
+      "drive_file_name": "Massive Wildlife Encounter Through Thick Zoo Glass (Safari Barrier Surprise).mp4",
+      "youtube_video_id": "wfzDBrNEEws",
+      "youtube_url": "https://youtu.be/wfzDBrNEEws",
+      "title": "Grandma Greets an Anteater Face-to-Face at the Zoo",
+      "uploaded_at_utc": "2026-11-02T13:53:45Z",
+      "tags": [
+        "anteater",
+        "zoo encounter",
+        "grandma at the zoo",
+        "cute animals",
+        "wildlife interaction",
+        "giant anteater",
+        "animal meeting",
+        "adorable grandma",
+        "zoo trip",
+        "funny animal moments",
+        "animals and humans"
+      ],
+      "hashtags": [
+        "#anteater",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
