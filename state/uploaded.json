@@ -776,6 +776,34 @@
         "#aquarium"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1aYNcmj5vT8DcxvPvN7JrTpw-QhwlTXao": {
+      "drive_file_id": "1aYNcmj5vT8DcxvPvN7JrTpw-QhwlTXao",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Heartwarming Grandma Greeting).mp4",
+      "youtube_video_id": "YOw1uB6ZlZk",
+      "youtube_url": "https://youtu.be/YOw1uB6ZlZk",
+      "title": "Moose Encounter: Little Boy Meets Giant Moose Through Glass",
+      "uploaded_at_utc": "2026-11-03T13:02:48Z",
+      "tags": [
+        "moose",
+        "wildlife",
+        "animal encounter",
+        "giant moose",
+        "baby moose",
+        "nature",
+        "wild animals",
+        "boy and moose",
+        "window encounter",
+        "cute kid",
+        "wildlife video",
+        "moose calf"
+      ],
+      "hashtags": [
+        "#moose",
+        "#wildlife",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1553,6 +1581,34 @@
         "#shorts",
         "#sealion",
         "#aquarium"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1aYNcmj5vT8DcxvPvN7JrTpw-QhwlTXao",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Heartwarming Grandma Greeting).mp4",
+      "youtube_video_id": "YOw1uB6ZlZk",
+      "youtube_url": "https://youtu.be/YOw1uB6ZlZk",
+      "title": "Moose Encounter: Little Boy Meets Giant Moose Through Glass",
+      "uploaded_at_utc": "2026-11-03T13:02:48Z",
+      "tags": [
+        "moose",
+        "wildlife",
+        "animal encounter",
+        "giant moose",
+        "baby moose",
+        "nature",
+        "wild animals",
+        "boy and moose",
+        "window encounter",
+        "cute kid",
+        "wildlife video",
+        "moose calf"
+      ],
+      "hashtags": [
+        "#moose",
+        "#wildlife",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
