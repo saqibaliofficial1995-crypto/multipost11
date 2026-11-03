@@ -804,6 +804,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1ob51wIjZfGlkd_Wmnm9VuHgX1vIAAXep": {
+      "drive_file_id": "1ob51wIjZfGlkd_Wmnm9VuHgX1vIAAXep",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Majestic Predator Eye Contact).mp4",
+      "youtube_video_id": "X632DPHmHYQ",
+      "youtube_url": "https://youtu.be/X632DPHmHYQ",
+      "title": "Toddler Meets Cute Otters Face to Face at the Zoo",
+      "uploaded_at_utc": "2026-11-03T22:34:45Z",
+      "tags": [
+        "toddler",
+        "otter",
+        "zoo animals",
+        "cute animals",
+        "aquarium",
+        "kids reacting",
+        "animals at zoo",
+        "cute otters",
+        "toddler reactions",
+        "family fun"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#otters"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1609,6 +1635,32 @@
         "#moose",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1ob51wIjZfGlkd_Wmnm9VuHgX1vIAAXep",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Majestic Predator Eye Contact).mp4",
+      "youtube_video_id": "X632DPHmHYQ",
+      "youtube_url": "https://youtu.be/X632DPHmHYQ",
+      "title": "Toddler Meets Cute Otters Face to Face at the Zoo",
+      "uploaded_at_utc": "2026-11-03T22:34:45Z",
+      "tags": [
+        "toddler",
+        "otter",
+        "zoo animals",
+        "cute animals",
+        "aquarium",
+        "kids reacting",
+        "animals at zoo",
+        "cute otters",
+        "toddler reactions",
+        "family fun"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#otters"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
