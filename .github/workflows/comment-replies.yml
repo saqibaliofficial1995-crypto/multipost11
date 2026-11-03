@@ -1,0 +1,51 @@
+name: Comment Replies
+
+on:
+  schedule:
+    - cron: '45 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: multipost11-replies
+  cancel-in-progress: false
+
+jobs:
+  comments:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Runner public IP
+        run: |
+          echo "Runner public IP: $(curl -s https://api.ipify.org)"
+
+      - name: Run Comment Responder
+        env:
+          PYTHONPATH: .
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -u src/comments.py
+
+      - name: Commit comment state
+        if: always()
+        run: |
+          git config user.name "saqibaliofficial1995-crypto"
+          git config user.email "saqibaliofficial1995@gmail.com"
+          git add state/
+          git diff --staged --quiet || (git commit -m "chore: update replied comments state [skip ci]" && git push)
