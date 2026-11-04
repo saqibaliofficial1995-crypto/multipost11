@@ -830,6 +830,33 @@
         "#otters"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1d0KgwPieG3qySpclYV2VzNtdb8ZIOxqW": {
+      "drive_file_id": "1d0KgwPieG3qySpclYV2VzNtdb8ZIOxqW",
+      "drive_file_name": "Playful Beluga Whale Greets Aquarium Visitors (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "iQoXJTqqRsk",
+      "youtube_url": "https://youtu.be/iQoXJTqqRsk",
+      "title": "Toddler Meets Lemur Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-04T13:19:10Z",
+      "tags": [
+        "toddler meets lemur",
+        "lemur at zoo",
+        "cute toddler reaction",
+        "animals and kids",
+        "ring tailed lemur",
+        "zoo animals",
+        "cute baby interaction",
+        "child and animal",
+        "funny lemur",
+        "wholesome zoo moment",
+        "kids reacting to animals"
+      ],
+      "hashtags": [
+        "#lemur",
+        "#toddler",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1661,6 +1688,33 @@
         "#shorts",
         "#toddler",
         "#otters"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1d0KgwPieG3qySpclYV2VzNtdb8ZIOxqW",
+      "drive_file_name": "Playful Beluga Whale Greets Aquarium Visitors (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "iQoXJTqqRsk",
+      "youtube_url": "https://youtu.be/iQoXJTqqRsk",
+      "title": "Toddler Meets Lemur Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-04T13:19:10Z",
+      "tags": [
+        "toddler meets lemur",
+        "lemur at zoo",
+        "cute toddler reaction",
+        "animals and kids",
+        "ring tailed lemur",
+        "zoo animals",
+        "cute baby interaction",
+        "child and animal",
+        "funny lemur",
+        "wholesome zoo moment",
+        "kids reacting to animals"
+      ],
+      "hashtags": [
+        "#lemur",
+        "#toddler",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
