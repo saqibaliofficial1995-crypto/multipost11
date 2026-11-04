@@ -857,6 +857,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1KN9EzJO7r4QRvOnv53kY2fiAD28qU7zh": {
+      "drive_file_id": "1KN9EzJO7r4QRvOnv53kY2fiAD28qU7zh",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Fascinating Glass Mirroring).mp4",
+      "youtube_video_id": "OyK7rSslJAc",
+      "youtube_url": "https://youtu.be/OyK7rSslJAc",
+      "title": "Penguin Encounter: Toddler's Exciting Zoo Visit",
+      "uploaded_at_utc": "2026-11-04T22:55:18Z",
+      "tags": [
+        "toddler at zoo",
+        "baby sees penguins",
+        "penguin encounter",
+        "cute baby reaction",
+        "zoo animals for kids",
+        "baby pointing at animals",
+        "penguin exhibit",
+        "toddler moments",
+        "family zoo trip",
+        "cute animal reactions"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#penguins"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1715,6 +1741,32 @@
         "#lemur",
         "#toddler",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1KN9EzJO7r4QRvOnv53kY2fiAD28qU7zh",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Fascinating Glass Mirroring).mp4",
+      "youtube_video_id": "OyK7rSslJAc",
+      "youtube_url": "https://youtu.be/OyK7rSslJAc",
+      "title": "Penguin Encounter: Toddler's Exciting Zoo Visit",
+      "uploaded_at_utc": "2026-11-04T22:55:18Z",
+      "tags": [
+        "toddler at zoo",
+        "baby sees penguins",
+        "penguin encounter",
+        "cute baby reaction",
+        "zoo animals for kids",
+        "baby pointing at animals",
+        "penguin exhibit",
+        "toddler moments",
+        "family zoo trip",
+        "cute animal reactions"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#penguins"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
