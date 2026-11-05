@@ -909,6 +909,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1bg7-syRIP_x67r1h8f7uj5Wd5YVPd89p": {
+      "drive_file_id": "1bg7-syRIP_x67r1h8f7uj5Wd5YVPd89p",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Breathtaking Ocean Life).mp4",
+      "youtube_video_id": "HUP3XXz_rPY",
+      "youtube_url": "https://youtu.be/HUP3XXz_rPY",
+      "title": "Grandma's Sweet Encounter with Friendly Orangutans",
+      "uploaded_at_utc": "2026-11-05T22:55:30Z",
+      "tags": [
+        "orangutan",
+        "zoo animals",
+        "elderly woman",
+        "animal encounter",
+        "wildlife",
+        "cute animals",
+        "heartwarming",
+        "zoo visit",
+        "primate",
+        "grandma"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#orangutan",
+        "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1819,6 +1845,32 @@
         "#komododragon",
         "#zoo",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1bg7-syRIP_x67r1h8f7uj5Wd5YVPd89p",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Breathtaking Ocean Life).mp4",
+      "youtube_video_id": "HUP3XXz_rPY",
+      "youtube_url": "https://youtu.be/HUP3XXz_rPY",
+      "title": "Grandma's Sweet Encounter with Friendly Orangutans",
+      "uploaded_at_utc": "2026-11-05T22:55:30Z",
+      "tags": [
+        "orangutan",
+        "zoo animals",
+        "elderly woman",
+        "animal encounter",
+        "wildlife",
+        "cute animals",
+        "heartwarming",
+        "zoo visit",
+        "primate",
+        "grandma"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#orangutan",
+        "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
