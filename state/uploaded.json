@@ -883,6 +883,32 @@
         "#penguins"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1mp9POTRhHFyj1CfjVQX_pTj0rImbm1R2": {
+      "drive_file_id": "1mp9POTRhHFyj1CfjVQX_pTj0rImbm1R2",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "i87KwEdi2W4",
+      "youtube_url": "https://youtu.be/i87KwEdi2W4",
+      "title": "Komodo Dragon Approaching Elderly Man at Zoo Exhibit",
+      "uploaded_at_utc": "2026-11-05T13:31:33Z",
+      "tags": [
+        "Komodo dragon",
+        "zoo encounter",
+        "reptile",
+        "elderly man at zoo",
+        "wildlife",
+        "animal interaction",
+        "giant lizard",
+        "zoo exhibit",
+        "Komodo dragon glass",
+        "reptile house"
+      ],
+      "hashtags": [
+        "#komododragon",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1767,6 +1793,32 @@
         "#shorts",
         "#toddler",
         "#penguins"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1mp9POTRhHFyj1CfjVQX_pTj0rImbm1R2",
+      "drive_file_name": "The Cutest Zoo Interaction Caught On Camera (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "i87KwEdi2W4",
+      "youtube_url": "https://youtu.be/i87KwEdi2W4",
+      "title": "Komodo Dragon Approaching Elderly Man at Zoo Exhibit",
+      "uploaded_at_utc": "2026-11-05T13:31:33Z",
+      "tags": [
+        "Komodo dragon",
+        "zoo encounter",
+        "reptile",
+        "elderly man at zoo",
+        "wildlife",
+        "animal interaction",
+        "giant lizard",
+        "zoo exhibit",
+        "Komodo dragon glass",
+        "reptile house"
+      ],
+      "hashtags": [
+        "#komododragon",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
