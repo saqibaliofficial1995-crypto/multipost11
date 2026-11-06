@@ -961,6 +961,32 @@
         "#zooanimals"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1FRcYr1SK69UL5e5vp9BHrGvEONAsy023": {
+      "drive_file_id": "1FRcYr1SK69UL5e5vp9BHrGvEONAsy023",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Heartwarming Grandma Greeting).mp4",
+      "youtube_video_id": "rIc6NVQ7Nlg",
+      "youtube_url": "https://youtu.be/rIc6NVQ7Nlg",
+      "title": "Flamingo Encounter: Sweet Moment at the Zoo",
+      "uploaded_at_utc": "2026-11-06T22:53:36Z",
+      "tags": [
+        "flamingo",
+        "zoo animals",
+        "wildlife encounter",
+        "bird watching",
+        "cute animals",
+        "flamingo interaction",
+        "zoo visit",
+        "animal lover",
+        "exotic birds",
+        "nature moments"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#flamingo",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1923,6 +1949,32 @@
         "#shorts",
         "#chimpanzee",
         "#zooanimals"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1FRcYr1SK69UL5e5vp9BHrGvEONAsy023",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Heartwarming Grandma Greeting).mp4",
+      "youtube_video_id": "rIc6NVQ7Nlg",
+      "youtube_url": "https://youtu.be/rIc6NVQ7Nlg",
+      "title": "Flamingo Encounter: Sweet Moment at the Zoo",
+      "uploaded_at_utc": "2026-11-06T22:53:36Z",
+      "tags": [
+        "flamingo",
+        "zoo animals",
+        "wildlife encounter",
+        "bird watching",
+        "cute animals",
+        "flamingo interaction",
+        "zoo visit",
+        "animal lover",
+        "exotic birds",
+        "nature moments"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#flamingo",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
