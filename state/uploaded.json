@@ -935,6 +935,32 @@
         "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1x9FQm37bXJUSlUmQBIsv7sJZeaFPmOb-": {
+      "drive_file_id": "1x9FQm37bXJUSlUmQBIsv7sJZeaFPmOb-",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Safari Barrier Surprise).mp4",
+      "youtube_video_id": "Qt4Lb5Q5NJc",
+      "youtube_url": "https://youtu.be/Qt4Lb5Q5NJc",
+      "title": "Chimpanzee Interaction: Sweet Moment at the Zoo",
+      "uploaded_at_utc": "2026-11-06T13:17:24Z",
+      "tags": [
+        "chimpanzee",
+        "zoo animals",
+        "cute chimp",
+        "animal encounter",
+        "wildlife interaction",
+        "chimpanzees at zoo",
+        "sweet animal moment",
+        "primate behavior",
+        "curious chimp",
+        "animal connection"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zooanimals"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1871,6 +1897,32 @@
         "#shorts",
         "#orangutan",
         "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1x9FQm37bXJUSlUmQBIsv7sJZeaFPmOb-",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Safari Barrier Surprise).mp4",
+      "youtube_video_id": "Qt4Lb5Q5NJc",
+      "youtube_url": "https://youtu.be/Qt4Lb5Q5NJc",
+      "title": "Chimpanzee Interaction: Sweet Moment at the Zoo",
+      "uploaded_at_utc": "2026-11-06T13:17:24Z",
+      "tags": [
+        "chimpanzee",
+        "zoo animals",
+        "cute chimp",
+        "animal encounter",
+        "wildlife interaction",
+        "chimpanzees at zoo",
+        "sweet animal moment",
+        "primate behavior",
+        "curious chimp",
+        "animal connection"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zooanimals"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
