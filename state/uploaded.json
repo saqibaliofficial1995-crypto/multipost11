@@ -987,6 +987,32 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "18aaAeG3_fjDlCkDtxfayusFf6cbMMrr2": {
+      "drive_file_id": "18aaAeG3_fjDlCkDtxfayusFf6cbMMrr2",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "alixzSY2Mno",
+      "youtube_url": "https://youtu.be/alixzSY2Mno",
+      "title": "Toddler Meets Giant Turtle at the Zoo!",
+      "uploaded_at_utc": "2026-11-07T11:56:47Z",
+      "tags": [
+        "toddler meets turtle",
+        "giant tortoise zoo",
+        "kids and animals",
+        "cute toddler reaction",
+        "zoo animals for kids",
+        "toddler at the zoo",
+        "giant turtle interaction",
+        "cute kid videos",
+        "animal encounter",
+        "kids loving animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -1974,6 +2000,32 @@
       "hashtags": [
         "#shorts",
         "#flamingo",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "18aaAeG3_fjDlCkDtxfayusFf6cbMMrr2",
+      "drive_file_name": "The Most Precious Zoo Glass Moment You'll See Today (Playful Chimp Interaction).mp4",
+      "youtube_video_id": "alixzSY2Mno",
+      "youtube_url": "https://youtu.be/alixzSY2Mno",
+      "title": "Toddler Meets Giant Turtle at the Zoo!",
+      "uploaded_at_utc": "2026-11-07T11:56:47Z",
+      "tags": [
+        "toddler meets turtle",
+        "giant tortoise zoo",
+        "kids and animals",
+        "cute toddler reaction",
+        "zoo animals for kids",
+        "toddler at the zoo",
+        "giant turtle interaction",
+        "cute kid videos",
+        "animal encounter",
+        "kids loving animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
