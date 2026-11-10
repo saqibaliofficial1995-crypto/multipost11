@@ -1117,6 +1117,32 @@
         "#hippo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1IA5t7wq3mv8zxR0DpQ45-iDwLShTU-ca": {
+      "drive_file_id": "1IA5t7wq3mv8zxR0DpQ45-iDwLShTU-ca",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "umTZtVuk7Lc",
+      "youtube_url": "https://youtu.be/umTZtVuk7Lc",
+      "title": "Alligator Encounter: Toddler Meets Reptiles at Zoo",
+      "uploaded_at_utc": "2026-11-10T00:53:01Z",
+      "tags": [
+        "toddler",
+        "alligator",
+        "zoo animals",
+        "reptiles",
+        "kids reaction",
+        "wildlife encounter",
+        "cute kid",
+        "alligator enclosure",
+        "zoo visit",
+        "family fun"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#alligator",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2235,6 +2261,32 @@
         "#shorts",
         "#baby",
         "#hippo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1IA5t7wq3mv8zxR0DpQ45-iDwLShTU-ca",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Friendly Beluga Smile).mp4",
+      "youtube_video_id": "umTZtVuk7Lc",
+      "youtube_url": "https://youtu.be/umTZtVuk7Lc",
+      "title": "Alligator Encounter: Toddler Meets Reptiles at Zoo",
+      "uploaded_at_utc": "2026-11-10T00:53:01Z",
+      "tags": [
+        "toddler",
+        "alligator",
+        "zoo animals",
+        "reptiles",
+        "kids reaction",
+        "wildlife encounter",
+        "cute kid",
+        "alligator enclosure",
+        "zoo visit",
+        "family fun"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#alligator",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
