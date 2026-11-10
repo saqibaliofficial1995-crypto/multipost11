@@ -1170,6 +1170,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1a9jHUrrBbL3GebCnjcSDsV7c0NBCAkuU": {
+      "drive_file_id": "1a9jHUrrBbL3GebCnjcSDsV7c0NBCAkuU",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Playful Water Splash).mp4",
+      "youtube_video_id": "OOqOWWZZFxU",
+      "youtube_url": "https://youtu.be/OOqOWWZZFxU",
+      "title": "Wild Boar Surprise: Meeting Piglets Up Close at the Zoo",
+      "uploaded_at_utc": "2026-11-10T22:35:01Z",
+      "tags": [
+        "wild boar",
+        "zoo animals",
+        "wild boar piglets",
+        "cute baby animals",
+        "animal encounter",
+        "wildlife",
+        "zoo visit",
+        "piglets at zoo",
+        "mother boar",
+        "cute piglets",
+        "zoo moments"
+      ],
+      "hashtags": [
+        "#wildboar",
+        "#zooanimals",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2340,6 +2367,33 @@
       "hashtags": [
         "#redpanda",
         "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1a9jHUrrBbL3GebCnjcSDsV7c0NBCAkuU",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Playful Water Splash).mp4",
+      "youtube_video_id": "OOqOWWZZFxU",
+      "youtube_url": "https://youtu.be/OOqOWWZZFxU",
+      "title": "Wild Boar Surprise: Meeting Piglets Up Close at the Zoo",
+      "uploaded_at_utc": "2026-11-10T22:35:01Z",
+      "tags": [
+        "wild boar",
+        "zoo animals",
+        "wild boar piglets",
+        "cute baby animals",
+        "animal encounter",
+        "wildlife",
+        "zoo visit",
+        "piglets at zoo",
+        "mother boar",
+        "cute piglets",
+        "zoo moments"
+      ],
+      "hashtags": [
+        "#wildboar",
+        "#zooanimals",
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
