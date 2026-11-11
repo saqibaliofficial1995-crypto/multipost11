@@ -1224,6 +1224,32 @@
         "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1_wySJHtFZhAMPTg9MVUp0jhSaSdr_Mb2": {
+      "drive_file_id": "1_wySJHtFZhAMPTg9MVUp0jhSaSdr_Mb2",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Precious Child Wonder).mp4",
+      "youtube_video_id": "kz2UQ5LV6uY",
+      "youtube_url": "https://youtu.be/kz2UQ5LV6uY",
+      "title": "Clouded Leopard Encounter at the Zoo",
+      "uploaded_at_utc": "2026-11-11T23:44:28Z",
+      "tags": [
+        "clouded leopard",
+        "zoo animals",
+        "wildlife encounter",
+        "leopard cub",
+        "zoo visit",
+        "animal interaction",
+        "big cats",
+        "wildlife viewing",
+        "zoological park",
+        "nature lovers"
+      ],
+      "hashtags": [
+        "#cloudedleopard",
+        "#zooencounter",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2449,6 +2475,32 @@
         "#shorts",
         "#alligator",
         "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1_wySJHtFZhAMPTg9MVUp0jhSaSdr_Mb2",
+      "drive_file_name": "The Most Wholesome Zoo Glass Encounter Ever (Precious Child Wonder).mp4",
+      "youtube_video_id": "kz2UQ5LV6uY",
+      "youtube_url": "https://youtu.be/kz2UQ5LV6uY",
+      "title": "Clouded Leopard Encounter at the Zoo",
+      "uploaded_at_utc": "2026-11-11T23:44:28Z",
+      "tags": [
+        "clouded leopard",
+        "zoo animals",
+        "wildlife encounter",
+        "leopard cub",
+        "zoo visit",
+        "animal interaction",
+        "big cats",
+        "wildlife viewing",
+        "zoological park",
+        "nature lovers"
+      ],
+      "hashtags": [
+        "#cloudedleopard",
+        "#zooencounter",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
