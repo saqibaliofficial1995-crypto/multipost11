@@ -1197,6 +1197,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1g-EHLLFaYBFTnuwQCv5eDotpF4y9sFXj": {
+      "drive_file_id": "1g-EHLLFaYBFTnuwQCv5eDotpF4y9sFXj",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Unbreakable Bond Through Glass).mp4",
+      "youtube_video_id": "IH0RyCpb4AA",
+      "youtube_url": "https://youtu.be/IH0RyCpb4AA",
+      "title": "Alligator Encounter: Toddler Meets Huge Gator Up Close",
+      "uploaded_at_utc": "2026-11-11T12:59:30Z",
+      "tags": [
+        "alligator",
+        "toddler reaction",
+        "zoo animals",
+        "wildlife encounter",
+        "alligator babies",
+        "kids and animals",
+        "cute toddler",
+        "reptiles",
+        "zoo visit",
+        "alligator attack close",
+        "nature for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#alligator",
+        "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2395,6 +2422,33 @@
         "#wildboar",
         "#zooanimals",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1g-EHLLFaYBFTnuwQCv5eDotpF4y9sFXj",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Unbreakable Bond Through Glass).mp4",
+      "youtube_video_id": "IH0RyCpb4AA",
+      "youtube_url": "https://youtu.be/IH0RyCpb4AA",
+      "title": "Alligator Encounter: Toddler Meets Huge Gator Up Close",
+      "uploaded_at_utc": "2026-11-11T12:59:30Z",
+      "tags": [
+        "alligator",
+        "toddler reaction",
+        "zoo animals",
+        "wildlife encounter",
+        "alligator babies",
+        "kids and animals",
+        "cute toddler",
+        "reptiles",
+        "zoo visit",
+        "alligator attack close",
+        "nature for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#alligator",
+        "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
