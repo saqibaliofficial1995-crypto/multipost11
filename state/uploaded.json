@@ -1250,6 +1250,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1OIi_LCeU_3aMJTKWmvojhqOrPAdL4jbz": {
+      "drive_file_id": "1OIi_LCeU_3aMJTKWmvojhqOrPAdL4jbz",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Rhino Close Staredown).mp4",
+      "youtube_video_id": "rQxU9VRrh0E",
+      "youtube_url": "https://youtu.be/rQxU9VRrh0E",
+      "title": "Toddler Meets Seal at Aquarium and Goes Wild!",
+      "uploaded_at_utc": "2026-11-12T14:06:00Z",
+      "tags": [
+        "toddler",
+        "seal",
+        "aquarium",
+        "baby and animals",
+        "cute baby",
+        "sea animal",
+        "zoo visit",
+        "child reaction",
+        "wholesome moment",
+        "kids at aquarium",
+        "seal encounter"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#aquarium"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2501,6 +2528,33 @@
         "#cloudedleopard",
         "#zooencounter",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1OIi_LCeU_3aMJTKWmvojhqOrPAdL4jbz",
+      "drive_file_name": "The Sweetest Eye Contact With A Zoo Animal (Rhino Close Staredown).mp4",
+      "youtube_video_id": "rQxU9VRrh0E",
+      "youtube_url": "https://youtu.be/rQxU9VRrh0E",
+      "title": "Toddler Meets Seal at Aquarium and Goes Wild!",
+      "uploaded_at_utc": "2026-11-12T14:06:00Z",
+      "tags": [
+        "toddler",
+        "seal",
+        "aquarium",
+        "baby and animals",
+        "cute baby",
+        "sea animal",
+        "zoo visit",
+        "child reaction",
+        "wholesome moment",
+        "kids at aquarium",
+        "seal encounter"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#aquarium"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
