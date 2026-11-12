@@ -1277,6 +1277,32 @@
         "#aquarium"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "13D3hUtpk5ftlWLvExLjZzUWiSAulwkq9": {
+      "drive_file_id": "13D3hUtpk5ftlWLvExLjZzUWiSAulwkq9",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "I8Hv0FpoRgY",
+      "youtube_url": "https://youtu.be/I8Hv0FpoRgY",
+      "title": "Toddler Meets Tiny Monkey at the Zoo",
+      "uploaded_at_utc": "2026-11-12T22:53:52Z",
+      "tags": [
+        "toddler meets monkey",
+        "zoo animals for kids",
+        "cute baby monkey",
+        "marmoset monkey",
+        "toddler reaction",
+        "kids at zoo",
+        "cute toddler moments",
+        "funny toddler",
+        "animal encounter",
+        "wildlife for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2555,6 +2581,32 @@
         "#shorts",
         "#toddler",
         "#aquarium"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "13D3hUtpk5ftlWLvExLjZzUWiSAulwkq9",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "I8Hv0FpoRgY",
+      "youtube_url": "https://youtu.be/I8Hv0FpoRgY",
+      "title": "Toddler Meets Tiny Monkey at the Zoo",
+      "uploaded_at_utc": "2026-11-12T22:53:52Z",
+      "tags": [
+        "toddler meets monkey",
+        "zoo animals for kids",
+        "cute baby monkey",
+        "marmoset monkey",
+        "toddler reaction",
+        "kids at zoo",
+        "cute toddler moments",
+        "funny toddler",
+        "animal encounter",
+        "wildlife for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
