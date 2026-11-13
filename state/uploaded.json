@@ -1303,6 +1303,32 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1n1TcPyUY0zhclk3mqvoao4sjikA9zJ7C": {
+      "drive_file_id": "1n1TcPyUY0zhclk3mqvoao4sjikA9zJ7C",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Baby Giggles At The Window).mp4",
+      "youtube_video_id": "VcWIrBngSK8",
+      "youtube_url": "https://youtu.be/VcWIrBngSK8",
+      "title": "Aquarium Turtles Visit an Elderly Couple Up Close",
+      "uploaded_at_utc": "2026-11-13T13:27:47Z",
+      "tags": [
+        "aquarium",
+        "sea turtles",
+        "elderly couple",
+        "aquarium visit",
+        "marine life",
+        "turtle encounter",
+        "cute turtles",
+        "wholesome moments",
+        "public aquarium",
+        "underwater life"
+      ],
+      "hashtags": [
+        "#aquarium",
+        "#seaturtles",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2607,6 +2633,32 @@
         "#shorts",
         "#toddler",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1n1TcPyUY0zhclk3mqvoao4sjikA9zJ7C",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Baby Giggles At The Window).mp4",
+      "youtube_video_id": "VcWIrBngSK8",
+      "youtube_url": "https://youtu.be/VcWIrBngSK8",
+      "title": "Aquarium Turtles Visit an Elderly Couple Up Close",
+      "uploaded_at_utc": "2026-11-13T13:27:47Z",
+      "tags": [
+        "aquarium",
+        "sea turtles",
+        "elderly couple",
+        "aquarium visit",
+        "marine life",
+        "turtle encounter",
+        "cute turtles",
+        "wholesome moments",
+        "public aquarium",
+        "underwater life"
+      ],
+      "hashtags": [
+        "#aquarium",
+        "#seaturtles",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
