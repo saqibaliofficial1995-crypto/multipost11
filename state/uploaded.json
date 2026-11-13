@@ -1329,6 +1329,34 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1hgP7fq0QPDRzVWVGXj8tazWnqUviATU_": {
+      "drive_file_id": "1hgP7fq0QPDRzVWVGXj8tazWnqUviATU_",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "YZg0FivqrJA",
+      "youtube_url": "https://youtu.be/YZg0FivqrJA",
+      "title": "Tapir Introduces Its Baby to Elderly Visitor",
+      "uploaded_at_utc": "2026-11-13T22:55:20Z",
+      "tags": [
+        "tapir",
+        "zoo animals",
+        "cute animal moments",
+        "baby tapir",
+        "elderly man at zoo",
+        "wholesome video",
+        "animal encounter",
+        "zoo visit",
+        "adorable animals",
+        "wildlife",
+        "animal friendship",
+        "zoo enclosure"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#tapir",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2659,6 +2687,34 @@
         "#aquarium",
         "#seaturtles",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1hgP7fq0QPDRzVWVGXj8tazWnqUviATU_",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "YZg0FivqrJA",
+      "youtube_url": "https://youtu.be/YZg0FivqrJA",
+      "title": "Tapir Introduces Its Baby to Elderly Visitor",
+      "uploaded_at_utc": "2026-11-13T22:55:20Z",
+      "tags": [
+        "tapir",
+        "zoo animals",
+        "cute animal moments",
+        "baby tapir",
+        "elderly man at zoo",
+        "wholesome video",
+        "animal encounter",
+        "zoo visit",
+        "adorable animals",
+        "wildlife",
+        "animal friendship",
+        "zoo enclosure"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#tapir",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
