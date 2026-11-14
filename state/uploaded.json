@@ -1384,6 +1384,32 @@
         "#animals"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "15vYugtmebaJpHjZUvLL7ynEdy4TcqJys": {
+      "drive_file_id": "15vYugtmebaJpHjZUvLL7ynEdy4TcqJys",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Curious Gorilla Greeting).mp4",
+      "youtube_video_id": "uIxofnx-JMk",
+      "youtube_url": "https://youtu.be/uIxofnx-JMk",
+      "title": "Baby Hippo Gets Up Close with a Curious Toddler at Zoo",
+      "uploaded_at_utc": "2026-11-14T21:41:51Z",
+      "tags": [
+        "baby hippo",
+        "hippo at zoo",
+        "toddler meets hippo",
+        "zoo animals",
+        "cute hippo",
+        "child and hippo",
+        "animal encounter",
+        "zoo visit",
+        "cute toddler",
+        "animals for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#hippo",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2769,6 +2795,32 @@
         "#shorts",
         "#ravens",
         "#animals"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "15vYugtmebaJpHjZUvLL7ynEdy4TcqJys",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Curious Gorilla Greeting).mp4",
+      "youtube_video_id": "uIxofnx-JMk",
+      "youtube_url": "https://youtu.be/uIxofnx-JMk",
+      "title": "Baby Hippo Gets Up Close with a Curious Toddler at Zoo",
+      "uploaded_at_utc": "2026-11-14T21:41:51Z",
+      "tags": [
+        "baby hippo",
+        "hippo at zoo",
+        "toddler meets hippo",
+        "zoo animals",
+        "cute hippo",
+        "child and hippo",
+        "animal encounter",
+        "zoo visit",
+        "cute toddler",
+        "animals for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#hippo",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
