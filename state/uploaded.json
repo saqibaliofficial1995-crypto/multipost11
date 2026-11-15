@@ -1436,6 +1436,32 @@
         "#penguins"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1X5TC8LwPrx7gegSLrkPeW237UtX-d8_7": {
+      "drive_file_id": "1X5TC8LwPrx7gegSLrkPeW237UtX-d8_7",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Wholesome Animal Hello).mp4",
+      "youtube_video_id": "8xHyHQntMms",
+      "youtube_url": "https://youtu.be/8xHyHQntMms",
+      "title": "Toddler Meets Huge Bear Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-15T22:08:20Z",
+      "tags": [
+        "bear at zoo",
+        "toddler meets bear",
+        "sun bear encounter",
+        "cute toddler reaction",
+        "zoo animals",
+        "wildlife encounter",
+        "bear waving",
+        "cute kid and animal",
+        "zoo trip",
+        "amazing wildlife"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2873,6 +2899,32 @@
         "#shorts",
         "#babyreaction",
         "#penguins"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1X5TC8LwPrx7gegSLrkPeW237UtX-d8_7",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Wholesome Animal Hello).mp4",
+      "youtube_video_id": "8xHyHQntMms",
+      "youtube_url": "https://youtu.be/8xHyHQntMms",
+      "title": "Toddler Meets Huge Bear Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-15T22:08:20Z",
+      "tags": [
+        "bear at zoo",
+        "toddler meets bear",
+        "sun bear encounter",
+        "cute toddler reaction",
+        "zoo animals",
+        "wildlife encounter",
+        "bear waving",
+        "cute kid and animal",
+        "zoo trip",
+        "amazing wildlife"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
