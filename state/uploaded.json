@@ -1488,6 +1488,32 @@
         "#baby"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1r3sviMz6-TODOQj9D_Mso42H5XSvPHP1": {
+      "drive_file_id": "1r3sviMz6-TODOQj9D_Mso42H5XSvPHP1",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Giant Mammal Stroll).mp4",
+      "youtube_video_id": "qA3lYqv377k",
+      "youtube_url": "https://youtu.be/qA3lYqv377k",
+      "title": "Anteater Encounter: Boy Meets Anteater with Baby at Zoo",
+      "uploaded_at_utc": "2026-11-17T01:07:16Z",
+      "tags": [
+        "anteater",
+        "baby anteater",
+        "zoo animals",
+        "boy at zoo",
+        "wildlife encounter",
+        "cute animals",
+        "zoo visit",
+        "animal interaction",
+        "anteater at zoo",
+        "animal babies"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#anteater",
+        "#zooanimals"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -2977,6 +3003,32 @@
         "#shorts",
         "#penguin",
         "#baby"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1r3sviMz6-TODOQj9D_Mso42H5XSvPHP1",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Giant Mammal Stroll).mp4",
+      "youtube_video_id": "qA3lYqv377k",
+      "youtube_url": "https://youtu.be/qA3lYqv377k",
+      "title": "Anteater Encounter: Boy Meets Anteater with Baby at Zoo",
+      "uploaded_at_utc": "2026-11-17T01:07:16Z",
+      "tags": [
+        "anteater",
+        "baby anteater",
+        "zoo animals",
+        "boy at zoo",
+        "wildlife encounter",
+        "cute animals",
+        "zoo visit",
+        "animal interaction",
+        "anteater at zoo",
+        "animal babies"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#anteater",
+        "#zooanimals"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
