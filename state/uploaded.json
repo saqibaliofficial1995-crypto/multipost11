@@ -1514,6 +1514,34 @@
         "#zooanimals"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1Io7MoZfrK-DLO8ZyoShYcese0x9BR1_5": {
+      "drive_file_id": "1Io7MoZfrK-DLO8ZyoShYcese0x9BR1_5",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "kQhHCYtqR9A",
+      "youtube_url": "https://youtu.be/kQhHCYtqR9A",
+      "title": "Toddler Meets Friendly Penguin at Aquarium",
+      "uploaded_at_utc": "2026-11-17T23:59:19Z",
+      "tags": [
+        "toddler",
+        "penguin",
+        "aquarium",
+        "cute toddler",
+        "animal encounter",
+        "baby and penguin",
+        "zoo and aquarium",
+        "toddler reaction",
+        "cute moments",
+        "family vlog",
+        "kids reacting",
+        "wildlife for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#penguin"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3029,6 +3057,34 @@
         "#shorts",
         "#anteater",
         "#zooanimals"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1Io7MoZfrK-DLO8ZyoShYcese0x9BR1_5",
+      "drive_file_name": "This Wild Rhino Charged Right At The Barrier (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "kQhHCYtqR9A",
+      "youtube_url": "https://youtu.be/kQhHCYtqR9A",
+      "title": "Toddler Meets Friendly Penguin at Aquarium",
+      "uploaded_at_utc": "2026-11-17T23:59:19Z",
+      "tags": [
+        "toddler",
+        "penguin",
+        "aquarium",
+        "cute toddler",
+        "animal encounter",
+        "baby and penguin",
+        "zoo and aquarium",
+        "toddler reaction",
+        "cute moments",
+        "family vlog",
+        "kids reacting",
+        "wildlife for kids"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#penguin"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
