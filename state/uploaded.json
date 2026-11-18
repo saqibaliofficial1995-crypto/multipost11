@@ -1542,6 +1542,33 @@
         "#penguin"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1tqUs7th_P9IstrSdVrWRWKu_O7EnQXJj": {
+      "drive_file_id": "1tqUs7th_P9IstrSdVrWRWKu_O7EnQXJj",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "LSKvTYb9PUE",
+      "youtube_url": "https://youtu.be/LSKvTYb9PUE",
+      "title": "Komodo Dragon Encounters Young Visitor at the Zoo",
+      "uploaded_at_utc": "2026-11-18T14:36:52Z",
+      "tags": [
+        "komodo dragon",
+        "zoo encounter",
+        "reptiles",
+        "kids at zoo",
+        "wildlife",
+        "komodo dragon encounter",
+        "zoo animals",
+        "giant lizard",
+        "animal encounter",
+        "komodo dragon attack",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#komododragon",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3085,6 +3112,33 @@
         "#shorts",
         "#toddler",
         "#penguin"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1tqUs7th_P9IstrSdVrWRWKu_O7EnQXJj",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "LSKvTYb9PUE",
+      "youtube_url": "https://youtu.be/LSKvTYb9PUE",
+      "title": "Komodo Dragon Encounters Young Visitor at the Zoo",
+      "uploaded_at_utc": "2026-11-18T14:36:52Z",
+      "tags": [
+        "komodo dragon",
+        "zoo encounter",
+        "reptiles",
+        "kids at zoo",
+        "wildlife",
+        "komodo dragon encounter",
+        "zoo animals",
+        "giant lizard",
+        "animal encounter",
+        "komodo dragon attack",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#komododragon",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
