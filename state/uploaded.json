@@ -1597,6 +1597,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1WX_lnsY78SA38eVkTqkr9LNPpYqYJ-i8": {
+      "drive_file_id": "1WX_lnsY78SA38eVkTqkr9LNPpYqYJ-i8",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "hJ9ydwhtDD0",
+      "youtube_url": "https://youtu.be/hJ9ydwhtDD0",
+      "title": "Cheetah and Cubs Approach Man Through Glass Window",
+      "uploaded_at_utc": "2026-11-19T14:43:34Z",
+      "tags": [
+        "cheetah",
+        "cheetah cubs",
+        "wildlife",
+        "animal encounter",
+        "zoo animals",
+        "big cats",
+        "wild animals",
+        "cute animals",
+        "safari",
+        "nature",
+        "predator"
+      ],
+      "hashtags": [
+        "#cheetah",
+        "#wildlife",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3194,6 +3221,33 @@
       "hashtags": [
         "#hornbill",
         "#birds",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1WX_lnsY78SA38eVkTqkr9LNPpYqYJ-i8",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "hJ9ydwhtDD0",
+      "youtube_url": "https://youtu.be/hJ9ydwhtDD0",
+      "title": "Cheetah and Cubs Approach Man Through Glass Window",
+      "uploaded_at_utc": "2026-11-19T14:43:34Z",
+      "tags": [
+        "cheetah",
+        "cheetah cubs",
+        "wildlife",
+        "animal encounter",
+        "zoo animals",
+        "big cats",
+        "wild animals",
+        "cute animals",
+        "safari",
+        "nature",
+        "predator"
+      ],
+      "hashtags": [
+        "#cheetah",
+        "#wildlife",
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
