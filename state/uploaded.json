@@ -1624,6 +1624,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1FYxNTpjkzdslnZis8XnWm6JdvHL4SK74": {
+      "drive_file_id": "1FYxNTpjkzdslnZis8XnWm6JdvHL4SK74",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Pure Joy Reaction).mp4",
+      "youtube_video_id": "zAjfc44qYFY",
+      "youtube_url": "https://youtu.be/zAjfc44qYFY",
+      "title": "Girl Bows to Cranes at Zoo",
+      "uploaded_at_utc": "2026-11-19T23:54:48Z",
+      "tags": [
+        "zoo animals",
+        "birds at zoo",
+        "cranial birds",
+        "girl bows to crane",
+        "cute animal encounter",
+        "wildlife interaction",
+        "zoo visit",
+        "kids and animals",
+        "adorable moment",
+        "nature lovers"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#birds"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3249,6 +3275,32 @@
         "#cheetah",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1FYxNTpjkzdslnZis8XnWm6JdvHL4SK74",
+      "drive_file_name": "This Zoo Glass Encounter Left Everyone Speechless (Pure Joy Reaction).mp4",
+      "youtube_video_id": "zAjfc44qYFY",
+      "youtube_url": "https://youtu.be/zAjfc44qYFY",
+      "title": "Girl Bows to Cranes at Zoo",
+      "uploaded_at_utc": "2026-11-19T23:54:48Z",
+      "tags": [
+        "zoo animals",
+        "birds at zoo",
+        "cranial birds",
+        "girl bows to crane",
+        "cute animal encounter",
+        "wildlife interaction",
+        "zoo visit",
+        "kids and animals",
+        "adorable moment",
+        "nature lovers"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zoo",
+        "#birds"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
