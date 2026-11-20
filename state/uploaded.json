@@ -1650,6 +1650,32 @@
         "#birds"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1WX-issMyRnXoRtPqh46v4VQQrDs-gnXp": {
+      "drive_file_id": "1WX-issMyRnXoRtPqh46v4VQQrDs-gnXp",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Intense Face To Face).mp4",
+      "youtube_video_id": "1t0GAElOVjs",
+      "youtube_url": "https://youtu.be/1t0GAElOVjs",
+      "title": "Grandpa Greets Friendly Camels at the Zoo",
+      "uploaded_at_utc": "2026-11-20T14:25:43Z",
+      "tags": [
+        "camel",
+        "zoo animals",
+        "grandfather",
+        "cute animals",
+        "animal encounter",
+        "zoo visit",
+        "wholesome",
+        "family moments",
+        "friendly animals",
+        "camels walking up to glass"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#animals",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3301,6 +3327,32 @@
         "#shorts",
         "#zoo",
         "#birds"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1WX-issMyRnXoRtPqh46v4VQQrDs-gnXp",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Intense Face To Face).mp4",
+      "youtube_video_id": "1t0GAElOVjs",
+      "youtube_url": "https://youtu.be/1t0GAElOVjs",
+      "title": "Grandpa Greets Friendly Camels at the Zoo",
+      "uploaded_at_utc": "2026-11-20T14:25:43Z",
+      "tags": [
+        "camel",
+        "zoo animals",
+        "grandfather",
+        "cute animals",
+        "animal encounter",
+        "zoo visit",
+        "wholesome",
+        "family moments",
+        "friendly animals",
+        "camels walking up to glass"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#animals",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
