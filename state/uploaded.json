@@ -1729,6 +1729,33 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1vx_7VWvIjMYwoGlnj8I7blq8VN2w-pUs": {
+      "drive_file_id": "1vx_7VWvIjMYwoGlnj8I7blq8VN2w-pUs",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "r75LDxFGztU",
+      "youtube_url": "https://youtu.be/r75LDxFGztU",
+      "title": "Toddler Meets Meerkats Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-21T22:27:35Z",
+      "tags": [
+        "toddler at zoo",
+        "meerkat encounter",
+        "cute baby and animals",
+        "zoo animals",
+        "toddler reaction",
+        "meerkats looking through glass",
+        "cute toddler",
+        "animals and kids",
+        "zoo day",
+        "family memories",
+        "adorable moment"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#meerkats"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3459,6 +3486,33 @@
         "#shorts",
         "#baby",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1vx_7VWvIjMYwoGlnj8I7blq8VN2w-pUs",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "r75LDxFGztU",
+      "youtube_url": "https://youtu.be/r75LDxFGztU",
+      "title": "Toddler Meets Meerkats Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-21T22:27:35Z",
+      "tags": [
+        "toddler at zoo",
+        "meerkat encounter",
+        "cute baby and animals",
+        "zoo animals",
+        "toddler reaction",
+        "meerkats looking through glass",
+        "cute toddler",
+        "animals and kids",
+        "zoo day",
+        "family memories",
+        "adorable moment"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#toddler",
+        "#meerkats"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
