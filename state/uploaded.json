@@ -1756,6 +1756,33 @@
         "#meerkats"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1RCuQQOx-ggqM8q_Io9A8ZTdFvhOSbZbE": {
+      "drive_file_id": "1RCuQQOx-ggqM8q_Io9A8ZTdFvhOSbZbE",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "eWJEz4i65Kg",
+      "youtube_url": "https://youtu.be/eWJEz4i65Kg",
+      "title": "Lion Meets Toddler Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-22T13:38:22Z",
+      "tags": [
+        "lion",
+        "zoo",
+        "toddler",
+        "baby",
+        "lioness",
+        "cute",
+        "wildlife",
+        "animals",
+        "lion cub",
+        "family",
+        "zoo animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#lion",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3513,6 +3540,33 @@
         "#shorts",
         "#toddler",
         "#meerkats"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1RCuQQOx-ggqM8q_Io9A8ZTdFvhOSbZbE",
+      "drive_file_name": "Unbelievable Animal Interaction At The Zoo Window (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "eWJEz4i65Kg",
+      "youtube_url": "https://youtu.be/eWJEz4i65Kg",
+      "title": "Lion Meets Toddler Face-to-Face at the Zoo!",
+      "uploaded_at_utc": "2026-11-22T13:38:22Z",
+      "tags": [
+        "lion",
+        "zoo",
+        "toddler",
+        "baby",
+        "lioness",
+        "cute",
+        "wildlife",
+        "animals",
+        "lion cub",
+        "family",
+        "zoo animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#lion",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
