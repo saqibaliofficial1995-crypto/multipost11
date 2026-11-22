@@ -1783,6 +1783,32 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1baEuT5QgjE8vhiyWq64YEGbKX41uenuZ": {
+      "drive_file_id": "1baEuT5QgjE8vhiyWq64YEGbKX41uenuZ",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "CzewoK6G4B4",
+      "youtube_url": "https://youtu.be/CzewoK6G4B4",
+      "title": "Rhino Encounter: Man meets massive rhino and baby up close",
+      "uploaded_at_utc": "2026-11-22T22:50:46Z",
+      "tags": [
+        "rhino",
+        "rhinoceros",
+        "baby rhino",
+        "zoo animals",
+        "wildlife encounter",
+        "animal interaction",
+        "cute baby animals",
+        "rhino charge",
+        "grandpa and rhino",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#rhino",
+        "#wildlife",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3567,6 +3593,32 @@
         "#shorts",
         "#lion",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1baEuT5QgjE8vhiyWq64YEGbKX41uenuZ",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Gentle Giant Elephant Approach).mp4",
+      "youtube_video_id": "CzewoK6G4B4",
+      "youtube_url": "https://youtu.be/CzewoK6G4B4",
+      "title": "Rhino Encounter: Man meets massive rhino and baby up close",
+      "uploaded_at_utc": "2026-11-22T22:50:46Z",
+      "tags": [
+        "rhino",
+        "rhinoceros",
+        "baby rhino",
+        "zoo animals",
+        "wildlife encounter",
+        "animal interaction",
+        "cute baby animals",
+        "rhino charge",
+        "grandpa and rhino",
+        "zoo visit"
+      ],
+      "hashtags": [
+        "#rhino",
+        "#wildlife",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
