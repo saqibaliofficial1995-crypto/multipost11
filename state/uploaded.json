@@ -1809,6 +1809,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "10Z5mEhZj6lL6lovcEg-GdDv51A52yBRL": {
+      "drive_file_id": "10Z5mEhZj6lL6lovcEg-GdDv51A52yBRL",
+      "drive_file_name": "Unforgettable Zoo Glass Encounter You Must Watch (Rhino Close Staredown).mp4",
+      "youtube_video_id": "E0oNL_iPOrk",
+      "youtube_url": "https://youtu.be/E0oNL_iPOrk",
+      "title": "Elderly Woman's Magical Close Encounter with a Zoo Crane",
+      "uploaded_at_utc": "2026-11-23T16:31:26Z",
+      "tags": [
+        "crane encounter",
+        "zoo animal interaction",
+        "elderly woman at zoo",
+        "bird interaction",
+        "cute crane video",
+        "zoo animals",
+        "wildlife encounter",
+        "heartwarming zoo moment",
+        "crane displays wings",
+        "animal behavior"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zooanimals",
+        "#crane"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3619,6 +3645,32 @@
         "#rhino",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "10Z5mEhZj6lL6lovcEg-GdDv51A52yBRL",
+      "drive_file_name": "Unforgettable Zoo Glass Encounter You Must Watch (Rhino Close Staredown).mp4",
+      "youtube_video_id": "E0oNL_iPOrk",
+      "youtube_url": "https://youtu.be/E0oNL_iPOrk",
+      "title": "Elderly Woman's Magical Close Encounter with a Zoo Crane",
+      "uploaded_at_utc": "2026-11-23T16:31:26Z",
+      "tags": [
+        "crane encounter",
+        "zoo animal interaction",
+        "elderly woman at zoo",
+        "bird interaction",
+        "cute crane video",
+        "zoo animals",
+        "wildlife encounter",
+        "heartwarming zoo moment",
+        "crane displays wings",
+        "animal behavior"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#zooanimals",
+        "#crane"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
