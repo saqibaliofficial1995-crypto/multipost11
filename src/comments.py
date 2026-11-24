@@ -105,3 +105,4 @@ if __name__ == "__main__":
     token = get_access_token()
     gemini_key = get_gemini_api_key()
     run_comment_responder(token, gemini_key)
+

@@ -49,3 +49,4 @@ jobs:
           git config user.email "saqibaliofficial1995@gmail.com"
           git add state/
           git diff --staged --quiet || (git commit -m "chore: update replied comments state [skip ci]" && git push)
+
