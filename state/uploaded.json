@@ -1864,6 +1864,32 @@
         "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1Ycgn2yqkla5SDCTxRjBHWkfhITFKnu7Y": {
+      "drive_file_id": "1Ycgn2yqkla5SDCTxRjBHWkfhITFKnu7Y",
+      "drive_file_name": "Unforgettable Zoo Glass Encounter You Must Watch (Wildlife Magic Moment).mp4",
+      "youtube_video_id": "O4Y1BKxKswU",
+      "youtube_url": "https://youtu.be/O4Y1BKxKswU",
+      "title": "Gibbon at Zoo Interaction with Excited Toddler",
+      "uploaded_at_utc": "2026-11-24T16:29:45Z",
+      "tags": [
+        "gibbon zoo interaction",
+        "toddler meets monkey",
+        "cute gibbon video",
+        "zoo animals for kids",
+        "child and ape interaction",
+        "gibbon swinging",
+        "wildlife encounter kids",
+        "cute toddler reactions",
+        "zoo visit moments",
+        "animal friendship short"
+      ],
+      "hashtags": [
+        "#gibbon",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3729,6 +3755,32 @@
         "#shorts",
         "#orangutan",
         "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1Ycgn2yqkla5SDCTxRjBHWkfhITFKnu7Y",
+      "drive_file_name": "Unforgettable Zoo Glass Encounter You Must Watch (Wildlife Magic Moment).mp4",
+      "youtube_video_id": "O4Y1BKxKswU",
+      "youtube_url": "https://youtu.be/O4Y1BKxKswU",
+      "title": "Gibbon at Zoo Interaction with Excited Toddler",
+      "uploaded_at_utc": "2026-11-24T16:29:45Z",
+      "tags": [
+        "gibbon zoo interaction",
+        "toddler meets monkey",
+        "cute gibbon video",
+        "zoo animals for kids",
+        "child and ape interaction",
+        "gibbon swinging",
+        "wildlife encounter kids",
+        "cute toddler reactions",
+        "zoo visit moments",
+        "animal friendship short"
+      ],
+      "hashtags": [
+        "#gibbon",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
