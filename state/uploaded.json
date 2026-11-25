@@ -1890,6 +1890,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1jvg7-geAiltqt91urbEaW0Xe1_j3nmAY": {
+      "drive_file_id": "1jvg7-geAiltqt91urbEaW0Xe1_j3nmAY",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Intense Face To Face).mp4",
+      "youtube_video_id": "vvCaFQFP1R8",
+      "youtube_url": "https://youtu.be/vvCaFQFP1R8",
+      "title": "Bear Encounter: Elderly Man Greets Massive Bear at Zoo",
+      "uploaded_at_utc": "2026-11-25T01:38:40Z",
+      "tags": [
+        "brown bear",
+        "zoo encounter",
+        "wildlife",
+        "bear and man",
+        "zoo animals",
+        "grizzly bear",
+        "animal interaction",
+        "wildlife sanctuary",
+        "nature",
+        "cute bear",
+        "cute animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#bear",
+        "#wildlife"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3781,6 +3808,33 @@
         "#gibbon",
         "#zoo",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1jvg7-geAiltqt91urbEaW0Xe1_j3nmAY",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Intense Face To Face).mp4",
+      "youtube_video_id": "vvCaFQFP1R8",
+      "youtube_url": "https://youtu.be/vvCaFQFP1R8",
+      "title": "Bear Encounter: Elderly Man Greets Massive Bear at Zoo",
+      "uploaded_at_utc": "2026-11-25T01:38:40Z",
+      "tags": [
+        "brown bear",
+        "zoo encounter",
+        "wildlife",
+        "bear and man",
+        "zoo animals",
+        "grizzly bear",
+        "animal interaction",
+        "wildlife sanctuary",
+        "nature",
+        "cute bear",
+        "cute animals"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#bear",
+        "#wildlife"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
