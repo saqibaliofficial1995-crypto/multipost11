@@ -1970,6 +1970,34 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1Akg7xFHkoM0WAemACYSnC0MXcUCXrMjz": {
+      "drive_file_id": "1Akg7xFHkoM0WAemACYSnC0MXcUCXrMjz",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "O123-Z5hVQE",
+      "youtube_url": "https://youtu.be/O123-Z5hVQE",
+      "title": "Wolf Encounter: Man Greets White Wolf at Zoo",
+      "uploaded_at_utc": "2026-11-26T15:50:22Z",
+      "tags": [
+        "wolf",
+        "white wolf",
+        "zoo",
+        "animal encounter",
+        "wildlife",
+        "arctic wolf",
+        "man and wolf",
+        "zoo animals",
+        "wolf pack",
+        "animal reaction",
+        "cute wolf",
+        "nature"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#wolf",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3940,6 +3968,34 @@
       "hashtags": [
         "#shorts",
         "#chimpanzee",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1Akg7xFHkoM0WAemACYSnC0MXcUCXrMjz",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Cheeky Chimp Smiles).mp4",
+      "youtube_video_id": "O123-Z5hVQE",
+      "youtube_url": "https://youtu.be/O123-Z5hVQE",
+      "title": "Wolf Encounter: Man Greets White Wolf at Zoo",
+      "uploaded_at_utc": "2026-11-26T15:50:22Z",
+      "tags": [
+        "wolf",
+        "white wolf",
+        "zoo",
+        "animal encounter",
+        "wildlife",
+        "arctic wolf",
+        "man and wolf",
+        "zoo animals",
+        "wolf pack",
+        "animal reaction",
+        "cute wolf",
+        "nature"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#wolf",
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
