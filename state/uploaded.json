@@ -1943,6 +1943,33 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "132oKs3yeBD0hHuM3ikkraEsyI67nmGx0": {
+      "drive_file_id": "132oKs3yeBD0hHuM3ikkraEsyI67nmGx0",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "nTgV1NoU4sA",
+      "youtube_url": "https://youtu.be/nTgV1NoU4sA",
+      "title": "Chimpanzee waves hello to baby at the zoo",
+      "uploaded_at_utc": "2026-11-26T01:12:12Z",
+      "tags": [
+        "chimpanzee",
+        "baby",
+        "zoo",
+        "animal encounter",
+        "cute animals",
+        "chimp waving",
+        "baby and animal",
+        "wildlife",
+        "zoo animals",
+        "heartwarming",
+        "shorts"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3887,6 +3914,33 @@
         "#baby",
         "#elephant",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "132oKs3yeBD0hHuM3ikkraEsyI67nmGx0",
+      "drive_file_name": "When A Massive Rhino Steps Up To The Fence (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "nTgV1NoU4sA",
+      "youtube_url": "https://youtu.be/nTgV1NoU4sA",
+      "title": "Chimpanzee waves hello to baby at the zoo",
+      "uploaded_at_utc": "2026-11-26T01:12:12Z",
+      "tags": [
+        "chimpanzee",
+        "baby",
+        "zoo",
+        "animal encounter",
+        "cute animals",
+        "chimp waving",
+        "baby and animal",
+        "wildlife",
+        "zoo animals",
+        "heartwarming",
+        "shorts"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
