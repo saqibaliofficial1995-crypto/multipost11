@@ -2026,6 +2026,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1nDh2l4fh86rsxsZadJKwVkBHdwZEgtj4": {
+      "drive_file_id": "1nDh2l4fh86rsxsZadJKwVkBHdwZEgtj4",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Intense Face To Face).mp4",
+      "youtube_video_id": "hwy7EXLq6io",
+      "youtube_url": "https://youtu.be/hwy7EXLq6io",
+      "title": "Baby Meets Friendly Camel at Sunset in Amazing Encounter",
+      "uploaded_at_utc": "2026-11-27T15:38:51Z",
+      "tags": [
+        "baby meets camel",
+        "toddler animal encounter",
+        "cute baby video",
+        "camel at zoo",
+        "sweet animal interaction",
+        "baby's first camel",
+        "funny baby reactions",
+        "heartwarming animal moments",
+        "adorable baby and camel",
+        "zoo trip with baby"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#baby",
+        "#camel"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -4053,6 +4079,32 @@
         "#bison",
         "#wildlife",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1nDh2l4fh86rsxsZadJKwVkBHdwZEgtj4",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Intense Face To Face).mp4",
+      "youtube_video_id": "hwy7EXLq6io",
+      "youtube_url": "https://youtu.be/hwy7EXLq6io",
+      "title": "Baby Meets Friendly Camel at Sunset in Amazing Encounter",
+      "uploaded_at_utc": "2026-11-27T15:38:51Z",
+      "tags": [
+        "baby meets camel",
+        "toddler animal encounter",
+        "cute baby video",
+        "camel at zoo",
+        "sweet animal interaction",
+        "baby's first camel",
+        "funny baby reactions",
+        "heartwarming animal moments",
+        "adorable baby and camel",
+        "zoo trip with baby"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#baby",
+        "#camel"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
