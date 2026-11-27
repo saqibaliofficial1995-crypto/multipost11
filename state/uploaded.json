@@ -1998,6 +1998,34 @@
         "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1s_2GscJa3tMZ2nR0-bs8pyg39d-VQYDs": {
+      "drive_file_id": "1s_2GscJa3tMZ2nR0-bs8pyg39d-VQYDs",
+      "drive_file_name": "When Animals Realize There's Glass Between You (Curious Gorilla Greeting).mp4",
+      "youtube_video_id": "WN36JnUsTeA",
+      "youtube_url": "https://youtu.be/WN36JnUsTeA",
+      "title": "Bison surprises little girl and grandpa at window",
+      "uploaded_at_utc": "2026-11-27T01:10:32Z",
+      "tags": [
+        "bison encounter",
+        "wildlife up close",
+        "bison at window",
+        "family zoo trip",
+        "grandfather and granddaughter",
+        "surprised by bison",
+        "cute little girl",
+        "wild animal encounter",
+        "giant bison",
+        "wholesome family moment",
+        "nature up close",
+        "amazing wildlife"
+      ],
+      "hashtags": [
+        "#bison",
+        "#wildlife",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -3997,6 +4025,34 @@
         "#shorts",
         "#wolf",
         "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1s_2GscJa3tMZ2nR0-bs8pyg39d-VQYDs",
+      "drive_file_name": "When Animals Realize There's Glass Between You (Curious Gorilla Greeting).mp4",
+      "youtube_video_id": "WN36JnUsTeA",
+      "youtube_url": "https://youtu.be/WN36JnUsTeA",
+      "title": "Bison surprises little girl and grandpa at window",
+      "uploaded_at_utc": "2026-11-27T01:10:32Z",
+      "tags": [
+        "bison encounter",
+        "wildlife up close",
+        "bison at window",
+        "family zoo trip",
+        "grandfather and granddaughter",
+        "surprised by bison",
+        "cute little girl",
+        "wild animal encounter",
+        "giant bison",
+        "wholesome family moment",
+        "nature up close",
+        "amazing wildlife"
+      ],
+      "hashtags": [
+        "#bison",
+        "#wildlife",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
