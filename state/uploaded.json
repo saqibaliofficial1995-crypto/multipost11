@@ -2080,6 +2080,32 @@
         "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1YvwCwmxpePBlWpo1tal87bPWVkhNVlw7": {
+      "drive_file_id": "1YvwCwmxpePBlWpo1tal87bPWVkhNVlw7",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Baby Giggles At The Window).mp4",
+      "youtube_video_id": "8kuwOKJzd4Q",
+      "youtube_url": "https://youtu.be/8kuwOKJzd4Q",
+      "title": "Chimpanzee Interaction: Elderly woman meets zoo chimps",
+      "uploaded_at_utc": "2026-11-28T14:34:58Z",
+      "tags": [
+        "chimpanzee",
+        "zoo encounter",
+        "animal interaction",
+        "elderly woman and chimp",
+        "wildlife",
+        "zoo visit",
+        "cute animals",
+        "heartwarming moment",
+        "chimpanzees at zoo",
+        "animal reaction"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zoo"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -4161,6 +4187,32 @@
         "#hippo",
         "#zoo",
         "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1YvwCwmxpePBlWpo1tal87bPWVkhNVlw7",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Baby Giggles At The Window).mp4",
+      "youtube_video_id": "8kuwOKJzd4Q",
+      "youtube_url": "https://youtu.be/8kuwOKJzd4Q",
+      "title": "Chimpanzee Interaction: Elderly woman meets zoo chimps",
+      "uploaded_at_utc": "2026-11-28T14:34:58Z",
+      "tags": [
+        "chimpanzee",
+        "zoo encounter",
+        "animal interaction",
+        "elderly woman and chimp",
+        "wildlife",
+        "zoo visit",
+        "cute animals",
+        "heartwarming moment",
+        "chimpanzees at zoo",
+        "animal reaction"
+      ],
+      "hashtags": [
+        "#shorts",
+        "#chimpanzee",
+        "#zoo"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
