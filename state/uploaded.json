@@ -2052,6 +2052,34 @@
         "#camel"
       ],
       "model_used": "gemini-flash-lite-latest"
+    },
+    "1xgWsvFjNp-Pf7M8JIpq8u7QEeSpHwta9": {
+      "drive_file_id": "1xgWsvFjNp-Pf7M8JIpq8u7QEeSpHwta9",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "B75zjAWtns0",
+      "youtube_url": "https://youtu.be/B75zjAWtns0",
+      "title": "Baby Hippo Comes Right Up to Meet a Little Girl at the Zoo",
+      "uploaded_at_utc": "2026-11-28T00:42:57Z",
+      "tags": [
+        "hippo",
+        "baby hippo",
+        "zoo animals",
+        "cute hippo",
+        "wildlife encounter",
+        "zoo trip",
+        "kids and animals",
+        "animal reactions",
+        "hippopotamus",
+        "cute moments",
+        "animal lovers",
+        "zoo adventure"
+      ],
+      "hashtags": [
+        "#hippo",
+        "#zoo",
+        "#shorts"
+      ],
+      "model_used": "gemini-flash-lite-latest"
     }
   },
   "history": [
@@ -4105,6 +4133,34 @@
         "#shorts",
         "#baby",
         "#camel"
+      ],
+      "model_used": "gemini-flash-lite-latest"
+    },
+    {
+      "drive_file_id": "1xgWsvFjNp-Pf7M8JIpq8u7QEeSpHwta9",
+      "drive_file_name": "When A Wild Animal Notices You Through The Zoo Glass (Shocking Charge Reaction).mp4",
+      "youtube_video_id": "B75zjAWtns0",
+      "youtube_url": "https://youtu.be/B75zjAWtns0",
+      "title": "Baby Hippo Comes Right Up to Meet a Little Girl at the Zoo",
+      "uploaded_at_utc": "2026-11-28T00:42:57Z",
+      "tags": [
+        "hippo",
+        "baby hippo",
+        "zoo animals",
+        "cute hippo",
+        "wildlife encounter",
+        "zoo trip",
+        "kids and animals",
+        "animal reactions",
+        "hippopotamus",
+        "cute moments",
+        "animal lovers",
+        "zoo adventure"
+      ],
+      "hashtags": [
+        "#hippo",
+        "#zoo",
+        "#shorts"
       ],
       "model_used": "gemini-flash-lite-latest"
     }
